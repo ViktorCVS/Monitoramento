@@ -18,9 +18,9 @@ And those are the materials:
 
 Arduino Libraries:
 
- - [x] dht.h (I uploaded it here)
+ - [x] dht.h
 
-Python Libraries (you can install them with pip):
+Python Libraries:
 
  - [x] Matplotlib
  - [x] drawnow
@@ -48,7 +48,12 @@ We can see that I put the '-' terminal of DHT11 at ground, middle terminal at VC
 
 ## Results
 
-The second, third and fourth step can be seen at code arduino_sensor.ino, getting_data.py and plotting_tu.py. Now i'm gonna apresent the results.
+### Arduino Results
+
+
+### Python 'getting_data.py' Results
+
+### Python 'plotting_tu.py' Results
 
 
 
