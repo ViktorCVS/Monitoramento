@@ -34,6 +34,12 @@ Assembled circuit:
 
 <img src="https://user-images.githubusercontent.com/69547580/116624159-d05f8a00-a91d-11eb-8bee-ee63a4899e72.jpg" width="750" height="600">
 
+We can see that i put the '-' terminal of DHT11 at ground, middle terminal at VCC +5V (Arduino) and 'S' terminal for data at pin '8'.
+
+## Results
+
+The second, third and fourth step can be seen at code arduino_sensor.ino, getting_data.py and plotting_tu.py. Now i'm gonna apresent the results.
+
 
 
 
