@@ -1,10 +1,9 @@
-import datetime
-import matplotlib.pyplot as plt
-from drawnow import *
-import serial
+import matplotlib.pyplot as plt  #Importing library to plot our graph
+from drawnow import *            #Importing library to draw the graph in real time
+import serial                    #Importing library to get data from serial port
 
-temp = []
-umi = []
+temp = [] #Temperature array
+umi = []  #Humidity array
 
 cnt = 0
 
