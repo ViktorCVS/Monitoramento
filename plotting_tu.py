@@ -16,7 +16,7 @@ def figure():
     #Function to plot the graph
     
     plt.ylim(25,35) #Temperature limits
-    plt.title("Temperatura e umidade relativa do meu quarto") #Graph Title
+    plt.title("Temperature and Humidity of my room") #Graph Title
     plt.grid(True) #Grid on
     plt.ylabel("Temperature (°C)") #Label at left y axis
     plt.xlabel("Passed seconds") #Label at x axis
