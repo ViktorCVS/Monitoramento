@@ -22,6 +22,7 @@ def figure():
     plt.xlabel("Passed seconds") #Label at x axis
     plt.plot(temp,"ro-",label="Temperature") #Plotting temperature
     plt.legend(loc='upper left') #Setting temperature label at upper left
+    
     plt2=plt.twinx() #Adding a second plot
     plt.ylim(50,90) #Setting it's limits
     plt.ylabel("Humidity (%)") #Label at right y axis
@@ -40,10 +41,13 @@ while True:
     
     arduino_string = arduino.readline().decode("utf-8")  #Getting data as "b'xx.xx,yy.yy\r\n" and decoding it to "xx.xx,yy.yy"
     dataarray = arduino_string.split(",") #Separating data in a array, array[0] for temperature and array[1] for humidity (see .ino code, temperature first)
+    
     temp.append(float(dataarray[0])) #Putting temperature data in a temperature array
     umi.append(float(dataarray[1]))  #Putting humidity data in a humidity array
+    
     drawnow(figure) #Calling 'figure' function with drawnow
     plt.pause(.000001) #A small pause on plt
+    
     cnt += 1  #Increasing counter
     if(cnt>60):
         
