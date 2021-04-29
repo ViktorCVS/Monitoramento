@@ -5,7 +5,7 @@
 dht   my_dht;   //objeto para o sensor
 
 int    temperatura = 0x00,   //Store temperature as an integer
-       umidade     = 0x00;   //Store umidity as an integer
+       umidade     = 0x00;   //Store humidity as an integer
        
 void setup() { 
 
@@ -19,7 +19,7 @@ void loop() {
 
  Serial.print(my_dht.temperature); //Sending the temperature for serial
  Serial.print(","); //Separating values with ',' to be easier to get this data in Python
- Serial.println(my_dht.humidity); //Sending the umidity for serial
+ Serial.println(my_dht.humidity); //Sending the humidity for serial
  delay(1000); //Get data from sensor each 1 second
  
  
