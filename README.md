@@ -18,9 +18,9 @@ And those are the materials:
 
 Arduino Libraries:
 
- - [x] dht.h
+ - [x] dht.h (I uploaded it here)
 
-Python Libraries:
+Python Libraries (you can install them with 'pip install'):
 
  - [x] Matplotlib
  - [x] drawnow
