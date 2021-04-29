@@ -15,6 +15,16 @@ And those are the materials:
  - [x] DHT11 (Temperature/Umidity sensor)
  - [x] Protoboard (Optional)
  - [x] Wires/Jumpers
+
+Arduino Libraries:
+
+ - [x] dht.h
+
+Python Libraries:
+
+ - [x] Matplotlib
+ - [x] drawnow
+ - [x] pyserial
  
 ## Assembling the circuit
 
