@@ -32,7 +32,7 @@ Squematic:
 
 Assembled circuit:
 
-<img src="https://user-images.githubusercontent.com/69547580/116624159-d05f8a00-a91d-11eb-8bee-ee63a4899e72.jpg" width="600" height="600">
+<img src="https://user-images.githubusercontent.com/69547580/116624159-d05f8a00-a91d-11eb-8bee-ee63a4899e72.jpg" width="750" height="600">
 
 
 
