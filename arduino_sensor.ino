@@ -1,4 +1,4 @@
-#include <dht.h> #importing dht11 library
+#include <dht.h> //importing dht11 library
 
 #define    dht_pin    8   //Setting pin 8 to get data from the sensor
 
