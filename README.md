@@ -18,8 +18,7 @@ And those are the materials:
  
 ## Assembling the circuit
 
-![tikercad](https://user-images.githubusercontent.com/69547580/116621847-2f230480-a91a-11eb-984e-d53bd5ba0c9e.jpg)
-<img src="https://user-images.githubusercontent.com/69547580/116621847-2f230480-a91a-11eb-984e-d53bd5ba0c9e.jpg" width="400" height="790">
+<img src="https://user-images.githubusercontent.com/69547580/116621847-2f230480-a91a-11eb-984e-d53bd5ba0c9e.jpg" width="1000" height="1000">
 
 
 
