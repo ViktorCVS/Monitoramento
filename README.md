@@ -14,7 +14,12 @@ And those are the materials:
  - [x] Arduino Uno with USB cable for Arduino (or any other material that allow you to write a code in Arduino)
  - [x] DHT11 (Temperature/Umidity sensor)
  - [x] Protoboard (Optional)
- - [x] Wires/Jumpers  
+ - [x] Wires/Jumpers
+ 
+## Assembling the circuit
+
+![tikercad](https://user-images.githubusercontent.com/69547580/116621847-2f230480-a91a-11eb-984e-d53bd5ba0c9e.jpg)
+
 
 
 
