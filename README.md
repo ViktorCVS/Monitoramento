@@ -30,6 +30,10 @@ Squematic:
 
 <img src="https://user-images.githubusercontent.com/69547580/116623645-f0427e00-a91c-11eb-9579-1b6a2539f217.jpg" width="825" height="450">
 
+Assembled circuit:
+
+<img src="https://user-images.githubusercontent.com/69547580/116624159-d05f8a00-a91d-11eb-8bee-ee63a4899e72.jpg" width="600" height="600">
+
 
 
 
