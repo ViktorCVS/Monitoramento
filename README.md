@@ -9,7 +9,12 @@ I can divide this project in 3 steps:
  - [x] Get data from python
  - [x] Plot the living graph
 
-## First step
+And those are the materials:
+
+ - [x] Arduino Uno with USB cable for Arduino (or any other material that allow you to write a code in Arduino)
+ - [x] DHT11 (Temperature/Umidity sensor)
+ - [x] Protoboard (Optional)
+ - [x] Wires/Jumpers  
 
 
 
