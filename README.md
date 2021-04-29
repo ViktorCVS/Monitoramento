@@ -50,8 +50,15 @@ We can see that I put the '-' terminal of DHT11 at ground, middle terminal at VC
 
 ### Arduino Results
 
+![dataarduino](https://user-images.githubusercontent.com/69547580/116628913-8202b900-a926-11eb-88bb-d3059646a79c.jpg)
+
+The serial port works fine.
 
 ### Python 'getting_data.py' Results
+
+![datapython1](https://user-images.githubusercontent.com/69547580/116628996-aeb6d080-a926-11eb-8aa4-12227c23e472.jpg)
+
+We get data from COM3 with sucess!
 
 ### Python 'plotting_tu.py' Results
 
