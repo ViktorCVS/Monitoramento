@@ -48,7 +48,12 @@ We can see that I put the '-' terminal of DHT11 at ground, middle terminal at VC
 
 ## Results
 
-The second, third and fourth step can be seen at code arduino_sensor.ino, getting_data.py and plotting_tu.py. Now i'm gonna apresent the results.
+### Arduino Results
+
+
+### Python 'getting_data.py' Results
+
+### Python 'plotting_th.py' Results
 
 
 
