@@ -1,6 +1,6 @@
 # Monitoring
 
-My project is based in get data from a temperature/umidity sensor DHT11 with 'Arduino UNO' and plot a living graph with the data with Python.
+My project is based in get data from a temperature/humidity  sensor DHT11 with 'Arduino UNO' and plot a living graph with the data with Python.
 
 I can divide this project in 3 steps:
 
@@ -12,7 +12,7 @@ I can divide this project in 3 steps:
 And those are the materials:
 
  - [x] Arduino UNO with USB cable for Arduino (or any other material that allow you to write a code in Arduino)
- - [x] DHT11 (Temperature/Umidity sensor)
+ - [x] DHT11 (Temperature/Humidity sensor)
  - [x] Protoboard (Optional)
  - [x] Wires/Jumpers
 
