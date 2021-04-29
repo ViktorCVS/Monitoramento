@@ -28,7 +28,7 @@ Arduino UNO:
 
 Squematic:
 
-<img src="https://user-images.githubusercontent.com/69547580/116621847-2f230480-a91a-11eb-984e-d53bd5ba0c9e.jpg" width="500" height="250">
+<img src="https://user-images.githubusercontent.com/69547580/116623645-f0427e00-a91c-11eb-9579-1b6a2539f217.jpg" width="505" height="250">
 
 
 
