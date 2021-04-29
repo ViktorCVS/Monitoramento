@@ -20,15 +20,15 @@ And those are the materials:
 
 DHT11 Sensor:
 
-<img src="https://user-images.githubusercontent.com/69547580/116623279-64c8ed00-a91c-11eb-8b35-ca221810669f.jpg" width="400" height="200">
+<img src="https://user-images.githubusercontent.com/69547580/116623279-64c8ed00-a91c-11eb-8b35-ca221810669f.jpg" width="400" height="400">
 
 Arduino UNO:
 
-<img src="https://user-images.githubusercontent.com/69547580/116623277-64305680-a91c-11eb-89d9-973fbdeeacd7.jpg" width="400" height="200">
+<img src="https://user-images.githubusercontent.com/69547580/116623277-64305680-a91c-11eb-89d9-973fbdeeacd7.jpg" width="400" height="400">
 
 Squematic:
 
-<img src="https://user-images.githubusercontent.com/69547580/116621847-2f230480-a91a-11eb-984e-d53bd5ba0c9e.jpg" width="400" height="200">
+<img src="https://user-images.githubusercontent.com/69547580/116621847-2f230480-a91a-11eb-984e-d53bd5ba0c9e.jpg" width="500" height="250">
 
 
 
