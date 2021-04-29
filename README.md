@@ -62,6 +62,12 @@ We get data from COM3 with sucess!
 
 ### Python 'plotting_tu.py' Results
 
+![datapython2](https://user-images.githubusercontent.com/69547580/116629296-41f00600-a927-11eb-9d0c-8da9305ead20.jpg)
+
+And finally our living graph! I hope you learn from this git and could replicate it.
+
+![Projeto sem título](https://user-images.githubusercontent.com/69547580/116629934-b7100b00-a928-11eb-84f7-59b031ac043a.gif)
+
 
 
 
