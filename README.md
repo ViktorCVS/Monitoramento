@@ -1,4 +1,4 @@
-# Monitoring
+# Monitoring Temperature and Humidity
 
 My project is based in get data from a temperature/humidity  sensor DHT11 with 'Arduino UNO' and plot a living graph with the data with Python.
 
