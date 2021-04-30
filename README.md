@@ -2,7 +2,7 @@
 
 My project is based in get data from a temperature/humidity  sensor DHT11 with 'Arduino UNO' and plot a living graph with the data with Python.
 
-I can divide this project in 3 steps:
+I can divide this project in 4 steps:
 
  - [x] Assemble the circuit
  - [x] Program Arduino UNO
