@@ -22,7 +22,7 @@ Arduino Libraries:
 
 Python Libraries (you can install them with 'pip install'):
 
- - [x] Matplotlib
+ - [x] matplotlib
  - [x] drawnow
  - [x] pyserial
  
